@@ -1,0 +1,6 @@
+{
+  "name": "Olist Sales Analytics Workbench",
+  "description": "End-to-end e-commerce sales analytics project with SQL cleaning, star schema, 10 SQL business queries, Power BI DAX, Tableau Public specs, and executive summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
